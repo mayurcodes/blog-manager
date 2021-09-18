@@ -1,0 +1,28 @@
+{
+  "blog": [
+    {
+      "title": "my new home",
+      "body": "content2",
+      "author": "maddy",
+      "id": 2
+    },
+    {
+      "title": "welcome party",
+      "body": "content3",
+      "author": "paddy",
+      "id": 3
+    },
+    {
+      "title": "web dev tips",
+      "body": "content4",
+      "author": "maddy",
+      "id": 4
+    },
+    {
+      "title": "Javascript",
+      "body": "hoisting",
+      "author": "paddy",
+      "id": 5
+    }
+  ]
+}
